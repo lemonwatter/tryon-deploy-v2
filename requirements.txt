@@ -1,5 +1,5 @@
 streamlit
-tensorflow>=2.x
+tensorflow
 numpy
 Pillow
 scikit-image
